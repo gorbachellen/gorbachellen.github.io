@@ -1,7 +1,7 @@
 # Ellen Gorbach
 
 gorbach.ellen@gmail.com
-[My LinkedIn] (https://www.linkedin.com/in/ellen-gorbach)
+[My LinkedIn](https://www.linkedin.com/in/ellen-gorbach)
 Seattle, WA
 
 ## Skills
@@ -12,18 +12,18 @@ Seattle, WA
 
 ## Education: University of Washington (Seattle, Washington)
 
--  [UW][https://www.washington.edu/] One of the top public universities in the US.
+-  [UW](https://www.washington.edu/) One of the top public universities in the US.
 - Bachelor of Data Science & Geography, Minor in Informatics
 - GPA: 3.8 | Dean's List - 8 Quarters
 
 # Professional Experience
 
-**Software Development Engineering Intern | Unify Square** (JUNE 2021 - DEC 2021)
+**Software Development Engineering Intern at Unify Square** (JUNE 2021 - DEC 2021)
 
 - Investigate and implement the merging of a Python function app with essential NuGet packages in .NetStandard 2.0
 - Optimize major database to improve its performance and scalability
 
-**MANAGER/GAME MASTER | REALITY BREAK ESCAPES** (NOV 2019 – PRESENT)
+**MANAGER/GAME MASTER at REALITY BREAK ESCAPES** (NOV 2019 – PRESENT)
 
 -  Foster a cohesive and entertaining escape room experience for a variety of ages and experience levels
 -  Coordinate a team of up to 7 game masters for events ranging from **15-200 players** as host and collaborate to ensure 
